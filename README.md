@@ -1,2 +1,1 @@
-# Reto css periodico los simpsons
- 
+# Reto css: periodico los simpsons
